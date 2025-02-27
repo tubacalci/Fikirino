@@ -20,13 +20,13 @@ Bu proje, **FastCare** adında bir hastane yönetimi ve sağlık hizmetleri demo
 ### Dosya Yapısı
 fastcare-demo/
 │
-├── index.html              # Ana sayfa
-├── hospital.html           # Hastane sayfası
-├── styles.css              # Ortak stil dosyası
-├── welcome.js              # Ana sayfa JavaScript
-├── hospital.js             # Hastane sayfası JavaScript
-├── logo.png                # FastCare logosu
-└── README.md               # Bu dosya
+├── index.html             
+├── hospital.html        
+├── styles.css           
+├── welcome.js             
+├── hospital.js            
+├── logo.png              
+└── README.md    
 
 ### Teknolojiler
 HTML5: Yapısal tasarım.
