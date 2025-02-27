@@ -4,8 +4,9 @@
 Bu proje, **FastCare** adında bir hastane yönetimi ve sağlık hizmetleri demo web uygulamasıdır. Kullanıcılar, hastane bilgilerine erişebilir, semptom girebilir, randevu alabilir, doktorlar hakkında bilgi edinebilir ve müşteri desteği talep edebilir. Proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiştir ve mobil uyumlulukla tasarlanmıştır.
 
 ### Ekran Görüntüleri
-![Ana Sayfa Ekran Görüntüsü](anasayfa.png)
-![Hastane Sayfası Ekran Görüntüsü](arayuz.png)
+| Ana Sayfa Ekran Görüntüsü          | Hastane Sayfası Ekran Görüntüsü       |
+|------------------------------------|---------------------------------------|
+| ![Ana Sayfa](anasayfa.png =150x)   | ![Hastane Sayfası](arayuz.png =150x) |
 
 ### Özellikler
 - **Ana Sayfa:** Kullanıcıyı "Hoş Geldin [İsim]" mesajıyla karşılayan bir giriş ekranı.
