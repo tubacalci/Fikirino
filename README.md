@@ -31,8 +31,11 @@ fastcare-demo/
 └── README.md    
 
 ### Teknolojiler
+
 HTML5: Yapısal tasarım.
+
 CSS3: Stil ve mobil uyumluluk.
+
 JavaScript: Dinamik işlevsellik (semptom ekleme, yönlendirme).
 
 
