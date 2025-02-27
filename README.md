@@ -19,6 +19,7 @@ Bu proje, **FastCare** adında bir hastane yönetimi ve sağlık hizmetleri demo
 
 ### Dosya Yapısı
 fastcare-demo/
+
 │
 
 ├── index.html             
