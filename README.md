@@ -6,7 +6,7 @@ Bu proje, **FastCare** adında bir hastane yönetimi ve sağlık hizmetleri demo
 ### Ekran Görüntüleri
 | Ana Sayfa Ekran Görüntüsü          | Hastane Sayfası Ekran Görüntüsü       |
 |------------------------------------|---------------------------------------|
-| ![Ana Sayfa](anasayfa.png=150x)   | ![Hastane Sayfası](arayuz.png=150x) |
+| ![Ana Sayfa](anasayfa.png)         | ![Hastane Sayfası](arayuz.png)        |
 
 ### Özellikler
 - **Ana Sayfa:** Kullanıcıyı "Hoş Geldin [İsim]" mesajıyla karşılayan bir giriş ekranı.
