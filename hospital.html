@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FastCare - Hastane Sayfası</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="page-container">
+        <div class="hospital-card">
+            <h1 class="hospital-name">Ankara Şehir Hastanesi <span class="badge">Devlet</span></h1>
+            <div class="rating">Puan: 4.3 / 5</div>
+            <div class="emergency">Acil Servis: <span class="available">Var</span></div>
+            <div class="occupancy">
+                Doluluk Oranı: <span class="occupancy-value">80%</span>
+                <div class="progress-bar">
+                    <div class="progress"></div>
+                </div>
+            </div>
+            <button class="redirect-btn">Çevredeki Hastanelere Yönlendir</button>
+            <a href="https://maps.google.com/?q=Ankara+Şehir+Hastanesi" target="_blank" class="map-btn">Haritada Göster</a>
+            <a href="tel:+903125526000" class="phone">Hastaneyi Ara: (0312) 552 60 00</a>
+            <div class="comment">
+                <p><strong>Ali K.</strong>: "Hizmet hızlı, doktorlar ilgili."</p>
+            </div>
+        </div>
+
+        <div class="bottom-section">
+            <div class="symptom-card">
+                <h2>Semptomlarınızı Girin</h2>
+                <input type="text" placeholder="Örn: Ateş, öksürük" class="symptom-input">
+                <button class="submit-symptom">Gönder</button>
+                <ul class="symptom-list"></ul>
+            </div>
+
+            <div class="support-card">
+                <span class="support-icon">☎️</span>
+                <h2>Yardım Talep Et</h2>
+                <p>Müşteri hizmetlerimizle iletişime geçin.</p>
+                <button class="support-btn">Destek Al</button>
+            </div>
+
+            <div class="appointment-card">
+                <span class="appointment-icon">📅</span>
+                <h2>Randevu Al</h2>
+                <p>Hastaneden kolayca randevu alın.</p>
+                <button class="appointment-btn">Randevu Oluştur</button>
+            </div>
+
+            <div class="doctor-card">
+                <span class="doctor-icon">🩺</span>
+                <h2>Doktorlar</h2>
+                <p>Uzman doktorlarımızı keşfedin.</p>
+                <button class="doctor-btn">Doktorları Gör</button>
+            </div>
+        </div>
+    </div>
+    <script src="hospital.js"></script>
+</body>
+</html>
